@@ -1,0 +1,30 @@
+# #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search #Breadth_First_Search
+# #Tree #Binary_Tree #Data_Structure_I_Day_11_Tree #Level_2_Day_15_Tree
+# #Top_Interview_150_Binary_Tree_General #Big_O_Time_O(N)_Space_O(log(N))
+# #2025_07_24_Time_0_ms_(100.00%)_Space_17.74_MB_(83.76%)
+
+from typing import Optional
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        if root is None:
+            return True
+        return self.helper(root.left, root.right)
+
+    def helper(self, leftNode: TreeNode, rightNode: TreeNode) -> bool:
+        if leftNode is None or rightNode is None:
+            return leftNode is None and rightNode is None
+        if leftNode.val != rightNode.val:
+            return False
+        return self.helper(leftNode.left, rightNode.right) and self.helper(leftNode.right, rightNode.left)
