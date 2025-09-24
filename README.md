@@ -2,6 +2,7 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.javadev/leetcode-top-interview-150?style=flat-square)](https://central.sonatype.com/artifact/com.github.javadev/leetcode-top-interview-150/1.0)
 [![Java CI](https://github.com/LeetCode-Top-Interview-150/LeetCode-Top-Interview-150/actions/workflows/maven.yml/badge.svg)](https://github.com/LeetCode-Top-Interview-150/LeetCode-Top-Interview-150/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/LeetCode-Top-Interview-150/LeetCode-Top-Interview-150/actions/workflows/codeql.yml/badge.svg)](https://github.com/LeetCode-Top-Interview-150/LeetCode-Top-Interview-150/actions/workflows/codeql.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/LeetCode-Top-Interview-150/LeetCode-Top-Interview-150/blob/main/LICENSE)
 
 LeetCode Top Interview 150 algorithm problem solutions.
