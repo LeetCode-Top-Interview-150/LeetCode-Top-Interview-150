@@ -10,7 +10,6 @@ LeetCode Top Interview 150 algorithm problem solutions.
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Graph Theory I](#graph-theory-i)
 * [SQL I](#sql-i)
 * [Level 1](#level-1)
 * [Level 2](#level-2)
@@ -25,81 +24,7 @@ LeetCode Top Interview 150 algorithm problem solutions.
 * [Dynamic Programming I](#dynamic-programming-i)
 * [Programming Skills I](#programming-skills-i)
 * [Programming Skills II](#programming-skills-ii)
-
-### Graph Theory I
-
-#### Day 1 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0200 |Number of Islands| [Java](src/main/java/g0101_0200/s0200_number_of_islands) [Kotlin](src/main/kotlin/g0101_0200/s0200_number_of_islands) [TypeScript](src/main/ts/g0101_0200/s0200_number_of_islands) [C#](src/main/csharp/g0101_0200/s0200_number_of_islands) [Go](src/main/go/g0101_0200/s0200_number_of_islands) [Python](src/main/python/g0101_0200/s0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 3 | 87.24
-
-#### Day 2 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 3 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 4 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 6 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 7 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 11 Breadth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 12 Breadth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0433 |Minimum Genetic Mutation| [Java](src/main/java/g0401_0500/s0433_minimum_genetic_mutation) [Kotlin](src/main/kotlin/g0401_0500/s0433_minimum_genetic_mutation) [TypeScript](src/main/ts/g0401_0500/s0433_minimum_genetic_mutation) [C#](src/main/csharp/g0401_0500/s0433_minimum_genetic_mutation) [Go](src/main/go/g0401_0500/s0433_minimum_genetic_mutation) [Python](src/main/python/g0401_0500/s0433_minimum_genetic_mutation)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
-| 0127 |Word Ladder| [Java](src/main/java/g0101_0200/s0127_word_ladder) [Kotlin](src/main/kotlin/g0101_0200/s0127_word_ladder) [TypeScript](src/main/ts/g0101_0200/s0127_word_ladder) [C#](src/main/csharp/g0101_0200/s0127_word_ladder) [Go](src/main/go/g0101_0200/s0127_word_ladder) [Python](src/main/python/g0101_0200/s0127_word_ladder)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 22 | 96.00
-
-#### Day 13 Graph Theory
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 14 Graph Theory
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
+* [Graph Theory I](#graph-theory-i)
 
 ### SQL I
 
@@ -1700,6 +1625,81 @@ LeetCode Top Interview 150 algorithm problem solutions.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
 | 0380 |Insert Delete GetRandom O(1)| [Java](src/main/java/g0301_0400/s0380_insert_delete_getrandom_o1) [Kotlin](src/main/kotlin/g0301_0400/s0380_insert_delete_getrandom_o1) [TypeScript](src/main/ts/g0301_0400/s0380_insert_delete_getrandom_o1) [C#](src/main/csharp/g0301_0400/s0380_insert_delete_getrandom_o1) [Go](src/main/go/g0301_0400/s0380_insert_delete_getrandom_o1) [Python](src/main/python/g0301_0400/s0380_insert_delete_getrandom_o1)| Medium | Array, Hash_Table, Math, Design, Randomized | 27 | 93.44
+
+### Graph Theory I
+
+#### Day 1 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0200 |Number of Islands| [Java](src/main/java/g0101_0200/s0200_number_of_islands) [Kotlin](src/main/kotlin/g0101_0200/s0200_number_of_islands) [TypeScript](src/main/ts/g0101_0200/s0200_number_of_islands) [C#](src/main/csharp/g0101_0200/s0200_number_of_islands) [Go](src/main/go/g0101_0200/s0200_number_of_islands) [Python](src/main/python/g0101_0200/s0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 3 | 87.24
+
+#### Day 2 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 3 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 4 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 6 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 7 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 11 Breadth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 12 Breadth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0433 |Minimum Genetic Mutation| [Java](src/main/java/g0401_0500/s0433_minimum_genetic_mutation) [Kotlin](src/main/kotlin/g0401_0500/s0433_minimum_genetic_mutation) [TypeScript](src/main/ts/g0401_0500/s0433_minimum_genetic_mutation) [C#](src/main/csharp/g0401_0500/s0433_minimum_genetic_mutation) [Go](src/main/go/g0401_0500/s0433_minimum_genetic_mutation) [Python](src/main/python/g0401_0500/s0433_minimum_genetic_mutation)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
+| 0127 |Word Ladder| [Java](src/main/java/g0101_0200/s0127_word_ladder) [Kotlin](src/main/kotlin/g0101_0200/s0127_word_ladder) [TypeScript](src/main/ts/g0101_0200/s0127_word_ladder) [C#](src/main/csharp/g0101_0200/s0127_word_ladder) [Go](src/main/go/g0101_0200/s0127_word_ladder) [Python](src/main/python/g0101_0200/s0127_word_ladder)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 22 | 96.00
+
+#### Day 13 Graph Theory
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 14 Graph Theory
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
 
 ## Algorithms
 
