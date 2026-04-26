@@ -1,4 +1,4 @@
-221\. Maximal Square
+221\. Maximal Square 2
 
 Medium
 
