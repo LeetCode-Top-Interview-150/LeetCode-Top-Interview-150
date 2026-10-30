@@ -10,6 +10,9 @@ LeetCode Top Interview 150 algorithm problem solutions.
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
+* [Programming Skills I](#programming-skills-i)
+* [Programming Skills II](#programming-skills-ii)
+* [Graph Theory I](#graph-theory-i)
 * [SQL I](#sql-i)
 * [Level 1](#level-1)
 * [Level 2](#level-2)
@@ -22,9 +25,263 @@ LeetCode Top Interview 150 algorithm problem solutions.
 * [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
 * [Dynamic Programming I](#dynamic-programming-i)
-* [Programming Skills I](#programming-skills-i)
-* [Programming Skills II](#programming-skills-ii)
-* [Graph Theory I](#graph-theory-i)
+
+### Programming Skills I
+
+#### Day 1 Basic Data Type
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 2 Operator
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0191 |Number of 1 Bits| [Java](src/main/java/g0101_0200/s0191_number_of_1_bits) [Kotlin](src/main/kotlin/g0101_0200/s0191_number_of_1_bits) [TypeScript](src/main/ts/g0101_0200/s0191_number_of_1_bits) [C#](src/main/csharp/g0101_0200/s0191_number_of_1_bits) [Go](src/main/go/g0101_0200/s0191_number_of_1_bits) [Python](src/main/python/g0101_0200/s0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
+
+#### Day 3 Conditional Statements
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 4 Loop
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0202 |Happy Number| [Java](src/main/java/g0201_0300/s0202_happy_number) [Kotlin](src/main/kotlin/g0201_0300/s0202_happy_number) [TypeScript](src/main/ts/g0201_0300/s0202_happy_number) [C#](src/main/csharp/g0201_0300/s0202_happy_number) [Go](src/main/go/g0201_0300/s0202_happy_number) [Python](src/main/python/g0201_0300/s0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
+
+#### Day 5 Function
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 6 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 7 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10 Linked List and Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0104 |Maximum Depth of Binary Tree| [Java](src/main/java/g0101_0200/s0104_maximum_depth_of_binary_tree) [Kotlin](src/main/kotlin/g0101_0200/s0104_maximum_depth_of_binary_tree) [TypeScript](src/main/ts/g0101_0200/s0104_maximum_depth_of_binary_tree) [C#](src/main/csharp/g0101_0200/s0104_maximum_depth_of_binary_tree) [Go](src/main/go/g0101_0200/s0104_maximum_depth_of_binary_tree) [Python](src/main/python/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+
+#### Day 11 Containers and Libraries
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0242 |Valid Anagram| [Java](src/main/java/g0201_0300/s0242_valid_anagram) [Kotlin](src/main/kotlin/g0201_0300/s0242_valid_anagram) [TypeScript](src/main/ts/g0201_0300/s0242_valid_anagram) [C#](src/main/csharp/g0201_0300/s0242_valid_anagram) [Go](src/main/go/g0201_0300/s0242_valid_anagram) [Python](src/main/python/g0201_0300/s0242_valid_anagram)| Easy | String, Hash_Table, Sorting | 2 | 97.76
+
+#### Day 12 Class and Object
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+### Programming Skills II
+
+#### Day 1
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0028 |Implement strStr()| [Java](src/main/java/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [Kotlin](src/main/kotlin/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [TypeScript](src/main/ts/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [C#](src/main/csharp/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [Go](src/main/go/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [Python](src/main/python/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string)| Easy | Top_Interview_Questions, String, Two_Pointers, String_Matching | 0 | 100.00
+
+#### Day 2
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 3
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0150 |Evaluate Reverse Polish Notation| [Java](src/main/java/g0101_0200/s0150_evaluate_reverse_polish_notation) [Kotlin](src/main/kotlin/g0101_0200/s0150_evaluate_reverse_polish_notation) [TypeScript](src/main/ts/g0101_0200/s0150_evaluate_reverse_polish_notation) [C#](src/main/csharp/g0101_0200/s0150_evaluate_reverse_polish_notation) [Go](src/main/go/g0101_0200/s0150_evaluate_reverse_polish_notation) [Python](src/main/python/g0101_0200/s0150_evaluate_reverse_polish_notation)| Medium | Top_Interview_Questions, Array, Math, Stack | 6 | 76.50
+| 0066 |Plus One| [Java](src/main/java/g0001_0100/s0066_plus_one) [Kotlin](src/main/kotlin/g0001_0100/s0066_plus_one) [TypeScript](src/main/ts/g0001_0100/s0066_plus_one) [C#](src/main/csharp/g0001_0100/s0066_plus_one) [Go](src/main/go/g0001_0100/s0066_plus_one) [Python](src/main/python/g0001_0100/s0066_plus_one)| Easy | Top_Interview_Questions, Array, Math | 0 | 100.00
+
+#### Day 4
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0067 |Add Binary| [Java](src/main/java/g0001_0100/s0067_add_binary) [Kotlin](src/main/kotlin/g0001_0100/s0067_add_binary) [TypeScript](src/main/ts/g0001_0100/s0067_add_binary) [C#](src/main/csharp/g0001_0100/s0067_add_binary) [Go](src/main/go/g0001_0100/s0067_add_binary) [Python](src/main/python/g0001_0100/s0067_add_binary)| Easy | String, Math, Bit_Manipulation, Simulation | 1 | 99.82
+
+#### Day 6
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0058 |Length of Last Word| [Java](src/main/java/g0001_0100/s0058_length_of_last_word) [Kotlin](src/main/kotlin/g0001_0100/s0058_length_of_last_word) [TypeScript](src/main/ts/g0001_0100/s0058_length_of_last_word) [C#](src/main/csharp/g0001_0100/s0058_length_of_last_word) [Go](src/main/go/g0001_0100/s0058_length_of_last_word) [Python](src/main/python/g0001_0100/s0058_length_of_last_word)| Easy | String | 0 | 100.00
+
+#### Day 7
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0048 |Rotate Image| [Java](src/main/java/g0001_0100/s0048_rotate_image) [Kotlin](src/main/kotlin/g0001_0100/s0048_rotate_image) [TypeScript](src/main/ts/g0001_0100/s0048_rotate_image) [C#](src/main/csharp/g0001_0100/s0048_rotate_image) [Go](src/main/go/g0001_0100/s0048_rotate_image) [Python](src/main/python/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+
+#### Day 8
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0054 |Spiral Matrix| [Java](src/main/java/g0001_0100/s0054_spiral_matrix) [Kotlin](src/main/kotlin/g0001_0100/s0054_spiral_matrix) [TypeScript](src/main/ts/g0001_0100/s0054_spiral_matrix) [C#](src/main/csharp/g0001_0100/s0054_spiral_matrix) [Go](src/main/go/g0001_0100/s0054_spiral_matrix) [Python](src/main/python/g0001_0100/s0054_spiral_matrix)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 0 | 100.00
+
+#### Day 9
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 11
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0049 |Group Anagrams| [Java](src/main/java/g0001_0100/s0049_group_anagrams) [Kotlin](src/main/kotlin/g0001_0100/s0049_group_anagrams) [TypeScript](src/main/ts/g0001_0100/s0049_group_anagrams) [C#](src/main/csharp/g0001_0100/s0049_group_anagrams) [Go](src/main/go/g0001_0100/s0049_group_anagrams) [Python](src/main/python/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 6 | 97.61
+
+#### Day 12
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 13
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 14
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0138 |Copy List with Random Pointer| [Java](src/main/java/g0101_0200/s0138_copy_list_with_random_pointer) [Kotlin](src/main/kotlin/g0101_0200/s0138_copy_list_with_random_pointer) [TypeScript](src/main/ts/g0101_0200/s0138_copy_list_with_random_pointer) [C#](src/main/csharp/g0101_0200/s0138_copy_list_with_random_pointer) [Go](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer) [Python](src/main/python/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+
+#### Day 15
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0002 |Add Two Numbers| [Java](src/main/java/g0001_0100/s0002_add_two_numbers) [Kotlin](src/main/kotlin/g0001_0100/s0002_add_two_numbers) [TypeScript](src/main/ts/g0001_0100/s0002_add_two_numbers) [C#](src/main/csharp/g0001_0100/s0002_add_two_numbers) [Go](src/main/go/g0001_0100/s0002_add_two_numbers) [Python](src/main/python/g0001_0100/s0002_add_two_numbers)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 1 | 100.00
+
+#### Day 16
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0061 |Rotate List| [Java](src/main/java/g0001_0100/s0061_rotate_list) [Kotlin](src/main/kotlin/g0001_0100/s0061_rotate_list) [TypeScript](src/main/ts/g0001_0100/s0061_rotate_list) [C#](src/main/csharp/g0001_0100/s0061_rotate_list) [Go](src/main/go/g0001_0100/s0061_rotate_list) [Python](src/main/python/g0001_0100/s0061_rotate_list)| Medium | Two_Pointers, Linked_List | 0 | 100.00
+| 0173 |Binary Search Tree Iterator| [Java](src/main/java/g0101_0200/s0173_binary_search_tree_iterator) [Kotlin](src/main/kotlin/g0101_0200/s0173_binary_search_tree_iterator) [TypeScript](src/main/ts/g0101_0200/s0173_binary_search_tree_iterator) [C#](src/main/csharp/g0101_0200/s0173_binary_search_tree_iterator) [Go](src/main/go/g0101_0200/s0173_binary_search_tree_iterator) [Python](src/main/python/g0101_0200/s0173_binary_search_tree_iterator)| Medium | Tree, Binary_Tree, Stack, Design, Binary_Search_Tree, Iterator | 15 | 100.00
+
+#### Day 17
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 18
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0155 |Min Stack| [Java](src/main/java/g0101_0200/s0155_min_stack) [Kotlin](src/main/kotlin/g0101_0200/s0155_min_stack) [TypeScript](src/main/ts/g0101_0200/s0155_min_stack) [C#](src/main/csharp/g0101_0200/s0155_min_stack) [Go](src/main/go/g0101_0200/s0155_min_stack) [Python](src/main/python/g0101_0200/s0155_min_stack)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 4 | 96.54
+
+#### Day 19
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 20
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0380 |Insert Delete GetRandom O(1)| [Java](src/main/java/g0301_0400/s0380_insert_delete_getrandom_o1) [Kotlin](src/main/kotlin/g0301_0400/s0380_insert_delete_getrandom_o1) [TypeScript](src/main/ts/g0301_0400/s0380_insert_delete_getrandom_o1) [C#](src/main/csharp/g0301_0400/s0380_insert_delete_getrandom_o1) [Go](src/main/go/g0301_0400/s0380_insert_delete_getrandom_o1) [Python](src/main/python/g0301_0400/s0380_insert_delete_getrandom_o1)| Medium | Array, Hash_Table, Math, Design, Randomized | 27 | 93.44
+
+### Graph Theory I
+
+#### Day 1 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0200 |Number of Islands| [Java](src/main/java/g0101_0200/s0200_number_of_islands) [Kotlin](src/main/kotlin/g0101_0200/s0200_number_of_islands) [TypeScript](src/main/ts/g0101_0200/s0200_number_of_islands) [C#](src/main/csharp/g0101_0200/s0200_number_of_islands) [Go](src/main/go/g0101_0200/s0200_number_of_islands) [Python](src/main/python/g0101_0200/s0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 3 | 87.24
+
+#### Day 2 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 3 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 4 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 6 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 7 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 11 Breadth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 12 Breadth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0433 |Minimum Genetic Mutation| [Java](src/main/java/g0401_0500/s0433_minimum_genetic_mutation) [Kotlin](src/main/kotlin/g0401_0500/s0433_minimum_genetic_mutation) [TypeScript](src/main/ts/g0401_0500/s0433_minimum_genetic_mutation) [C#](src/main/csharp/g0401_0500/s0433_minimum_genetic_mutation) [Go](src/main/go/g0401_0500/s0433_minimum_genetic_mutation) [Python](src/main/python/g0401_0500/s0433_minimum_genetic_mutation)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
+| 0127 |Word Ladder| [Java](src/main/java/g0101_0200/s0127_word_ladder) [Kotlin](src/main/kotlin/g0101_0200/s0127_word_ladder) [TypeScript](src/main/ts/g0101_0200/s0127_word_ladder) [C#](src/main/csharp/g0101_0200/s0127_word_ladder) [Go](src/main/go/g0101_0200/s0127_word_ladder) [Python](src/main/python/g0101_0200/s0127_word_ladder)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 22 | 96.00
+
+#### Day 13 Graph Theory
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 14 Graph Theory
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
 
 ### SQL I
 
@@ -1440,263 +1697,6 @@ LeetCode Top Interview 150 algorithm problem solutions.
 | 0322 |Coin Change| [Java](src/main/java/g0301_0400/s0322_coin_change) [Kotlin](src/main/kotlin/g0301_0400/s0322_coin_change) [TypeScript](src/main/ts/g0301_0400/s0322_coin_change) [C#](src/main/csharp/g0301_0400/s0322_coin_change) [Go](src/main/go/g0301_0400/s0322_coin_change) [Python](src/main/python/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 12 | 92.59
 
 #### Day 21
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-### Programming Skills I
-
-#### Day 1 Basic Data Type
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 2 Operator
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0191 |Number of 1 Bits| [Java](src/main/java/g0101_0200/s0191_number_of_1_bits) [Kotlin](src/main/kotlin/g0101_0200/s0191_number_of_1_bits) [TypeScript](src/main/ts/g0101_0200/s0191_number_of_1_bits) [C#](src/main/csharp/g0101_0200/s0191_number_of_1_bits) [Go](src/main/go/g0101_0200/s0191_number_of_1_bits) [Python](src/main/python/g0101_0200/s0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
-
-#### Day 3 Conditional Statements
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 4 Loop
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0202 |Happy Number| [Java](src/main/java/g0201_0300/s0202_happy_number) [Kotlin](src/main/kotlin/g0201_0300/s0202_happy_number) [TypeScript](src/main/ts/g0201_0300/s0202_happy_number) [C#](src/main/csharp/g0201_0300/s0202_happy_number) [Go](src/main/go/g0201_0300/s0202_happy_number) [Python](src/main/python/g0201_0300/s0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
-
-#### Day 5 Function
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 6 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 7 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10 Linked List and Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0104 |Maximum Depth of Binary Tree| [Java](src/main/java/g0101_0200/s0104_maximum_depth_of_binary_tree) [Kotlin](src/main/kotlin/g0101_0200/s0104_maximum_depth_of_binary_tree) [TypeScript](src/main/ts/g0101_0200/s0104_maximum_depth_of_binary_tree) [C#](src/main/csharp/g0101_0200/s0104_maximum_depth_of_binary_tree) [Go](src/main/go/g0101_0200/s0104_maximum_depth_of_binary_tree) [Python](src/main/python/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
-
-#### Day 11 Containers and Libraries
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0242 |Valid Anagram| [Java](src/main/java/g0201_0300/s0242_valid_anagram) [Kotlin](src/main/kotlin/g0201_0300/s0242_valid_anagram) [TypeScript](src/main/ts/g0201_0300/s0242_valid_anagram) [C#](src/main/csharp/g0201_0300/s0242_valid_anagram) [Go](src/main/go/g0201_0300/s0242_valid_anagram) [Python](src/main/python/g0201_0300/s0242_valid_anagram)| Easy | String, Hash_Table, Sorting | 2 | 97.76
-
-#### Day 12 Class and Object
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-### Programming Skills II
-
-#### Day 1
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0028 |Implement strStr()| [Java](src/main/java/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [Kotlin](src/main/kotlin/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [TypeScript](src/main/ts/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [C#](src/main/csharp/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [Go](src/main/go/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string) [Python](src/main/python/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string)| Easy | Top_Interview_Questions, String, Two_Pointers, String_Matching | 0 | 100.00
-
-#### Day 2
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 3
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0150 |Evaluate Reverse Polish Notation| [Java](src/main/java/g0101_0200/s0150_evaluate_reverse_polish_notation) [Kotlin](src/main/kotlin/g0101_0200/s0150_evaluate_reverse_polish_notation) [TypeScript](src/main/ts/g0101_0200/s0150_evaluate_reverse_polish_notation) [C#](src/main/csharp/g0101_0200/s0150_evaluate_reverse_polish_notation) [Go](src/main/go/g0101_0200/s0150_evaluate_reverse_polish_notation) [Python](src/main/python/g0101_0200/s0150_evaluate_reverse_polish_notation)| Medium | Top_Interview_Questions, Array, Math, Stack | 6 | 76.50
-| 0066 |Plus One| [Java](src/main/java/g0001_0100/s0066_plus_one) [Kotlin](src/main/kotlin/g0001_0100/s0066_plus_one) [TypeScript](src/main/ts/g0001_0100/s0066_plus_one) [C#](src/main/csharp/g0001_0100/s0066_plus_one) [Go](src/main/go/g0001_0100/s0066_plus_one) [Python](src/main/python/g0001_0100/s0066_plus_one)| Easy | Top_Interview_Questions, Array, Math | 0 | 100.00
-
-#### Day 4
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0067 |Add Binary| [Java](src/main/java/g0001_0100/s0067_add_binary) [Kotlin](src/main/kotlin/g0001_0100/s0067_add_binary) [TypeScript](src/main/ts/g0001_0100/s0067_add_binary) [C#](src/main/csharp/g0001_0100/s0067_add_binary) [Go](src/main/go/g0001_0100/s0067_add_binary) [Python](src/main/python/g0001_0100/s0067_add_binary)| Easy | String, Math, Bit_Manipulation, Simulation | 1 | 99.82
-
-#### Day 6
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0058 |Length of Last Word| [Java](src/main/java/g0001_0100/s0058_length_of_last_word) [Kotlin](src/main/kotlin/g0001_0100/s0058_length_of_last_word) [TypeScript](src/main/ts/g0001_0100/s0058_length_of_last_word) [C#](src/main/csharp/g0001_0100/s0058_length_of_last_word) [Go](src/main/go/g0001_0100/s0058_length_of_last_word) [Python](src/main/python/g0001_0100/s0058_length_of_last_word)| Easy | String | 0 | 100.00
-
-#### Day 7
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0048 |Rotate Image| [Java](src/main/java/g0001_0100/s0048_rotate_image) [Kotlin](src/main/kotlin/g0001_0100/s0048_rotate_image) [TypeScript](src/main/ts/g0001_0100/s0048_rotate_image) [C#](src/main/csharp/g0001_0100/s0048_rotate_image) [Go](src/main/go/g0001_0100/s0048_rotate_image) [Python](src/main/python/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
-
-#### Day 8
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0054 |Spiral Matrix| [Java](src/main/java/g0001_0100/s0054_spiral_matrix) [Kotlin](src/main/kotlin/g0001_0100/s0054_spiral_matrix) [TypeScript](src/main/ts/g0001_0100/s0054_spiral_matrix) [C#](src/main/csharp/g0001_0100/s0054_spiral_matrix) [Go](src/main/go/g0001_0100/s0054_spiral_matrix) [Python](src/main/python/g0001_0100/s0054_spiral_matrix)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 0 | 100.00
-
-#### Day 9
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 11
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0049 |Group Anagrams| [Java](src/main/java/g0001_0100/s0049_group_anagrams) [Kotlin](src/main/kotlin/g0001_0100/s0049_group_anagrams) [TypeScript](src/main/ts/g0001_0100/s0049_group_anagrams) [C#](src/main/csharp/g0001_0100/s0049_group_anagrams) [Go](src/main/go/g0001_0100/s0049_group_anagrams) [Python](src/main/python/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 6 | 97.61
-
-#### Day 12
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 13
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 14
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0138 |Copy List with Random Pointer| [Java](src/main/java/g0101_0200/s0138_copy_list_with_random_pointer) [Kotlin](src/main/kotlin/g0101_0200/s0138_copy_list_with_random_pointer) [TypeScript](src/main/ts/g0101_0200/s0138_copy_list_with_random_pointer) [C#](src/main/csharp/g0101_0200/s0138_copy_list_with_random_pointer) [Go](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer) [Python](src/main/python/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
-
-#### Day 15
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0002 |Add Two Numbers| [Java](src/main/java/g0001_0100/s0002_add_two_numbers) [Kotlin](src/main/kotlin/g0001_0100/s0002_add_two_numbers) [TypeScript](src/main/ts/g0001_0100/s0002_add_two_numbers) [C#](src/main/csharp/g0001_0100/s0002_add_two_numbers) [Go](src/main/go/g0001_0100/s0002_add_two_numbers) [Python](src/main/python/g0001_0100/s0002_add_two_numbers)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 1 | 100.00
-
-#### Day 16
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0061 |Rotate List| [Java](src/main/java/g0001_0100/s0061_rotate_list) [Kotlin](src/main/kotlin/g0001_0100/s0061_rotate_list) [TypeScript](src/main/ts/g0001_0100/s0061_rotate_list) [C#](src/main/csharp/g0001_0100/s0061_rotate_list) [Go](src/main/go/g0001_0100/s0061_rotate_list) [Python](src/main/python/g0001_0100/s0061_rotate_list)| Medium | Two_Pointers, Linked_List | 0 | 100.00
-| 0173 |Binary Search Tree Iterator| [Java](src/main/java/g0101_0200/s0173_binary_search_tree_iterator) [Kotlin](src/main/kotlin/g0101_0200/s0173_binary_search_tree_iterator) [TypeScript](src/main/ts/g0101_0200/s0173_binary_search_tree_iterator) [C#](src/main/csharp/g0101_0200/s0173_binary_search_tree_iterator) [Go](src/main/go/g0101_0200/s0173_binary_search_tree_iterator) [Python](src/main/python/g0101_0200/s0173_binary_search_tree_iterator)| Medium | Tree, Binary_Tree, Stack, Design, Binary_Search_Tree, Iterator | 15 | 100.00
-
-#### Day 17
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 18
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0155 |Min Stack| [Java](src/main/java/g0101_0200/s0155_min_stack) [Kotlin](src/main/kotlin/g0101_0200/s0155_min_stack) [TypeScript](src/main/ts/g0101_0200/s0155_min_stack) [C#](src/main/csharp/g0101_0200/s0155_min_stack) [Go](src/main/go/g0101_0200/s0155_min_stack) [Python](src/main/python/g0101_0200/s0155_min_stack)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 4 | 96.54
-
-#### Day 19
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 20
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0380 |Insert Delete GetRandom O(1)| [Java](src/main/java/g0301_0400/s0380_insert_delete_getrandom_o1) [Kotlin](src/main/kotlin/g0301_0400/s0380_insert_delete_getrandom_o1) [TypeScript](src/main/ts/g0301_0400/s0380_insert_delete_getrandom_o1) [C#](src/main/csharp/g0301_0400/s0380_insert_delete_getrandom_o1) [Go](src/main/go/g0301_0400/s0380_insert_delete_getrandom_o1) [Python](src/main/python/g0301_0400/s0380_insert_delete_getrandom_o1)| Medium | Array, Hash_Table, Math, Design, Randomized | 27 | 93.44
-
-### Graph Theory I
-
-#### Day 1 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0200 |Number of Islands| [Java](src/main/java/g0101_0200/s0200_number_of_islands) [Kotlin](src/main/kotlin/g0101_0200/s0200_number_of_islands) [TypeScript](src/main/ts/g0101_0200/s0200_number_of_islands) [C#](src/main/csharp/g0101_0200/s0200_number_of_islands) [Go](src/main/go/g0101_0200/s0200_number_of_islands) [Python](src/main/python/g0101_0200/s0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 3 | 87.24
-
-#### Day 2 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 3 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 4 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 6 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 7 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 11 Breadth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 12 Breadth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0433 |Minimum Genetic Mutation| [Java](src/main/java/g0401_0500/s0433_minimum_genetic_mutation) [Kotlin](src/main/kotlin/g0401_0500/s0433_minimum_genetic_mutation) [TypeScript](src/main/ts/g0401_0500/s0433_minimum_genetic_mutation) [C#](src/main/csharp/g0401_0500/s0433_minimum_genetic_mutation) [Go](src/main/go/g0401_0500/s0433_minimum_genetic_mutation) [Python](src/main/python/g0401_0500/s0433_minimum_genetic_mutation)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
-| 0127 |Word Ladder| [Java](src/main/java/g0101_0200/s0127_word_ladder) [Kotlin](src/main/kotlin/g0101_0200/s0127_word_ladder) [TypeScript](src/main/ts/g0101_0200/s0127_word_ladder) [C#](src/main/csharp/g0101_0200/s0127_word_ladder) [Go](src/main/go/g0101_0200/s0127_word_ladder) [Python](src/main/python/g0101_0200/s0127_word_ladder)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 22 | 96.00
-
-#### Day 13 Graph Theory
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 14 Graph Theory
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
