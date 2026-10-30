@@ -3,42 +3,69 @@
 // #2025_04_07_Time_41_ms_(95.63%)_Space_63.50_MB_(82.78%)
 
 function ladderLength(beginWord: string, endWord: string, wordList: string[]): number {
-    const wordSet: Set<string> = new Set(wordList)
-    if (!wordSet.has(endWord)) {
-        return 0
-    }
-    let beginSet: Set<string> = new Set([beginWord])
-    let endSet: Set<string> = new Set([endWord])
-    const visited: Set<string> = new Set()
-    let len = 1
-    const wordLen = beginWord.length
-    while (beginSet.size > 0 && endSet.size > 0) {
-        if (beginSet.size > endSet.size) {
-            ;[beginSet, endSet] = [endSet, beginSet]
-        }
-        const tempSet: Set<string> = new Set()
-        for (const word of beginSet) {
-            const chars = word.split('')
-            for (let i = 0; i < wordLen; i++) {
-                const oldChar = chars[i]
-                for (let c = 97; c <= 122; c++) {
-                    chars[i] = String.fromCharCode(c)
-                    const nextWord = chars.join('')
-                    if (endSet.has(nextWord)) {
-                        return len + 1
-                    }
-                    if (!visited.has(nextWord) && wordSet.has(nextWord)) {
-                        tempSet.add(nextWord)
-                        visited.add(nextWord)
-                    }
-                }
-                chars[i] = oldChar
+    const wordSet = new Set(wordList)
+    if (!wordSet.has(endWord)) return 0
+
+    const queue: string[] = [beginWord]
+    let steps = 1
+
+    while (queue.length > 0) {
+        const levelSize = queue.length
+
+        for (let i = 0; i < levelSize; i++) {
+            const word = queue.shift()!
+
+            if (processNextWords(word, endWord, wordSet, queue)) {
+                return steps + 1
             }
         }
-        beginSet = tempSet
-        len++
+
+        steps++
     }
+
     return 0
+}
+
+function processNextWords(
+    word: string,
+    endWord: string,
+    wordSet: Set<string>,
+    queue: string[]
+): boolean {
+    for (let pos = 0; pos < word.length; pos++) {
+        if (tryAllReplacements(word, pos, endWord, wordSet, queue)) {
+            return true
+        }
+    }
+    return false
+}
+
+
+function tryAllReplacements(
+    word: string,
+    pos: number,
+    endWord: string,
+    wordSet: Set<string>,
+    queue: string[],
+): boolean {
+    for (let c = 97; c <= 122; c++) {
+        const char = String.fromCodePoint(c)
+        if (char === word[pos]) continue
+
+        const newWord = replaceChar(word, pos, char)
+
+        if (newWord === endWord) return true
+
+        if (wordSet.has(newWord)) {
+            queue.push(newWord)
+            wordSet.delete(newWord)
+        }
+    }
+    return false
+}
+
+function replaceChar(word: string, index: number, char: string): string {
+    return word.slice(0, index) + char + word.slice(index + 1)
 }
 
 export { ladderLength }

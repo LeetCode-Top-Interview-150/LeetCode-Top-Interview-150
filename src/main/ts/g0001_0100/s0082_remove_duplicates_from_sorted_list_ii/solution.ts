@@ -16,16 +16,17 @@ import { ListNode } from '../../com_github_leetcode/listnode'
  * }
  */
 function deleteDuplicates(head: ListNode | null): ListNode | null {
-    if (!head || !head.next) {
+    if (!head?.next) {
         return head
     }
+
     const dummy = new ListNode(0)
     dummy.next = head
     let prev: ListNode = dummy
     let curr: ListNode | null = head
     while (curr) {
         let hasDuplicate = false
-        while (curr.next && curr.val === curr.next.val) {
+        while (curr.val === curr.next?.val) {
             hasDuplicate = true
             curr = curr.next
         }
